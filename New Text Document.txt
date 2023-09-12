@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> Sample application </title>
+</head>
+
+<body>
+
+<h1> WelCome to Khan's Class </h1>
+
+<p> Are you guys enjoying my class? </p>
+
+<p> Are we doing better than other batches? </p>
+
+
+
+</body>
+
+</html>
